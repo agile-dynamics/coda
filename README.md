@@ -1,6 +1,3 @@
-# URL Pages
-
-[jstrieb.github.io/urlpages](http://jstrieb.github.io/urlpages)
 
 ## About
 
